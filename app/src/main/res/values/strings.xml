@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="made_by_tathagat">Made by Tathagat</string>
+    <string name="enter_height_in_cm">Enter height</string>
+    <string name="enter_weight_in_kg">Enter weight</string>
+    <string name="calculate">Calculate</string>
+    <string name="bmi_result">BMI Result</string>
+    <string name="you_should_exercise_daily">You should exercise Daily and maintain your shape</string>
+    <string name="unit">Unit</string>
+    <string name="reset">Reset</string>
+    <string name="about">About app</string>
+    <string name="about_me">Hey, I am Tathagat, I have created this simple app to calculate BMI
+        (Body Mass Index). This is just fun little project on the way of learning android app development.</string>
+    <string name="about_bmi">Body mass index is a measure of body fat and is commonly used within the health industry to determine whether your weight is healthy. BMI applies to both adult men and women and is the calculation of body weight in relation to height. This app does it for you. </string>
+    <string name="contact_me">Contact me -</string>
+    <string name="credits">All icon is downloaded from <a href="https://www.flaticon.com/">flaticon.com</a>. Huge thanks to icon makers, if you want to get easy life developing app visit <a href="https://www.flaticon.com/">flaticon.com</a>.</string>
+</resources>
